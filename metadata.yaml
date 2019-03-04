@@ -1,11 +1,16 @@
 _repo: The-Eastern-or-Turkish-Bath_58990
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58990-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Erasmus
     gutenberg_agent_id: '50255'
     url: http://www.gutenberg.org/2009/agents/50255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58990#The-Eastern-or-Turkish-Bath
 gutenberg_issued: '2019-03-01'
 gutenberg_type: Text
 identifiers:
